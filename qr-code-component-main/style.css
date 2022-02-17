@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: hsl(228, 45%, 44%);
+}
+
+body, html {
+    background-color: rgb(207, 221, 226);
+    padding:0;
+    margin: 0;
+}
+.conteiner {
+    background-color: white;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    width: 210px;
+}
+
+.imagem {
+    border-radius: 10px;
+    width: 200px;    
+}
+
+.texto-negrito {
+    font-weight: 700;
+    font-size: 15px;
+    color: black;
+    font-family: sans-serif;
+}
+
+p{
+    font-size: 12px;
+    color: gray;
+}
+   
