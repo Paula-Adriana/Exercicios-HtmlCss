@@ -8,4 +8,4 @@ Link: https://github.com/Paula-Adriana/Exercicios_html/tree/main/qr-code-compone
 **NFT card component**
 
 Link: https://github.com/Paula-Adriana/Exercicios_html/tree/main/nft-preview-card-component
-![image](https://user-images.githubusercontent.com/85121210/158365130-714bf665-2736-4805-871e-40e5eba76eb3.png)
+![image](https://user-images.githubusercontent.com/85121210/158365343-b086ba8d-21fc-497d-86aa-726880d0f4a8.png)
