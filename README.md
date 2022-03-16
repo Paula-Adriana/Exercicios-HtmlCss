@@ -1,4 +1,4 @@
-# Exercícios HTML e CSS do site Frontend Mentor.
+# Exercícios HTML e CSS.
 
 **QR Code component** 
 
